@@ -16,6 +16,7 @@ export default function About() {
                         <p className='about-text'> {Text.about.description1}</p>
 
                         <p className='about-text'> {Text.about.description2}</p>
+                        <p className='about-text'> {Text.about.description3}</p>
 
                     </div>
                 </div>

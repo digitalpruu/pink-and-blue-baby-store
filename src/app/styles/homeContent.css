@@ -51,6 +51,9 @@
     .home-main-div{
         padding-top: 2%;
     }
+    .main-container h1{
+        color: #40E0D0;
+    }
     .main-text{
         display: flex; /* Agrega flexbox para centrar elementos */
         justify-content: center; /* Centra horizontalmente los elementos */
